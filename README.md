@@ -16,7 +16,7 @@ Overall, the pocket arcade fight pad is a high-quality and versatile gaming cont
 
 6 x 6x6mm Panel PCB Momentary Tactile Takt Mini Push Button Switch DIP 4pin 
 
-12 x Choc Switches (i would recomend light as pissible)
+12 x Choc Switches (i would recomend light as possible)
 
 12 x Choc Keycaps
 
