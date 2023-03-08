@@ -13,9 +13,13 @@ Overall, the pocket arcade fight pad is a high-quality and versatile gaming cont
 
 # BOM
 1 x waveshare rp2040-zero
+
 6 x 6x6mm Panel PCB Momentary Tactile Takt Mini Push Button Switch DIP 4pin 
-12 x Choc Switches (i would recomend ligt as pissible)
+
+12 x Choc Switches (i would recomend light as pissible)
+
 12 x Choc Keycaps
+
 12 x HS Sockets (optional)
 
 # Setup
