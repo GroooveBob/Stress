@@ -19,7 +19,7 @@ Overall, the pocket arcade fight pad is a high-quality and versatile gaming cont
 12 x HS Sockets (optional)
 
 # Setup
-To get started with your Waveshare RP2040, download the pre-built firmware from this [LINK](https://github.com/OpenStickCommunity/GP2040-CE/releases)Once downloaded, flash the MCU.
+To get started with your Waveshare RP2040, download the pre-built firmware from this [link](https://github.com/OpenStickCommunity/GP2040-CE/releases). Once downloaded, flash the MCU.
 
 The GP2040 features a web-based configuration application that can be accessed by holding down K1 when plugging your controller into a PC. To begin configuration, simply visit http://192.168.7.1. Under the Data Backup and Restoration section, upload the StressConfig.gp2040 file.
 
