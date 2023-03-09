@@ -20,7 +20,7 @@ Overall, the pocket arcade fight pad is a high-quality and versatile gaming cont
 
 12 x Choc Keycaps
 
-12 x HS Sockets (optional)
+12 x Hot Swap Sockets (optional)
 
 # Setup
 To get started with your Waveshare RP2040, download the pre-built firmware from this [link](https://github.com/OpenStickCommunity/GP2040-CE/releases). Once downloaded, flash the MCU.
