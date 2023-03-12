@@ -7,8 +7,6 @@ The controller is also equipped with a Waveshare rp2040-zero controller, which i
 
 Despite its small size, the pocket arcade fight pad packs a lot of functionality, including a D-pad, six face buttons, and two shoulder buttons. This allows players to execute complex combos and special moves with ease, and provides a satisfying and immersive gaming experience.
 
-Overall, the pocket arcade fight pad is a high-quality and versatile gaming controller that is perfect for fighting game fans who are always on the go. With its advanced software and high-performance hardware, it offers a level of responsiveness and precision that is unmatched by other portable gaming controllers.
-
 ![This is an image](https://github.com/GroooveBob/Stress/blob/main/pics/IMG_20230307_140611.jpg)
 
 # BOM
