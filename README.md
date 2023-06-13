@@ -26,3 +26,6 @@ To get started with your Waveshare RP2040, download the pre-built firmware from 
 The GP2040 features a web-based configuration application that can be accessed by holding down K1 when plugging your controller into a PC. To begin configuration, simply visit http://192.168.7.1. Under the Data Backup and Restoration section, upload the StressConfig.gp2040 file.
 
 After uploading, you can access the web configuration by clicking the Start button. Your Stress Pad should now be ready to use.
+
+# Buy
+You can buy the Stress Fightpad at [www.keeb.supply/](https://keeb.supply/products/stress)
